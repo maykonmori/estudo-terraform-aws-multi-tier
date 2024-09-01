@@ -26,3 +26,5 @@ Atualmente esse Terraform esta dividido em duas parte
 - Integracao de um S3 para fazer armazenamento de arquivos
 - Fazer uma config de CI/CD
 - Algum momento fazer um CloudWatch
+- Estruturar Modulos
+- Estruturar melhor os variables
